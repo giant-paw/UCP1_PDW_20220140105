@@ -3,7 +3,7 @@
 
 # Deskripsi
 
-UMY Merdeka adalah sebuah website yang mendukung program Merdeka Belajar di Universitas Muhammadiyah Yogyakarta (UMY). Website ini menyediakan berbagai layanan yang mendukung proses belajar mengajar, seperti program-program pilihan, informasi mengenai syarat dan ketentuan program, serta fasilitas lainnya yang berguna bagi mahasiswa.
+  UMY Merdeka adalah sebuah website yang mendukung program Merdeka Belajar di Universitas Muhammadiyah Yogyakarta (UMY). Website ini menyediakan berbagai layanan yang mendukung proses belajar mengajar, seperti program-program pilihan, informasi mengenai syarat dan ketentuan program, serta fasilitas lainnya yang berguna bagi mahasiswa.
 
 # Preview :
 
