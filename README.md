@@ -16,3 +16,7 @@
 ![rev4](https://github.com/giant-paw/UCP1_PDW_20220140105/assets/107108170/3eed94b0-b932-4abe-aef8-adce5df2aa1b)
 
 ![rev5](https://github.com/giant-paw/UCP1_PDW_20220140105/assets/107108170/a7a9590a-71d7-49d5-9fc0-7c642b5c5265)
+
+# Halaman Error :
+
+![error](https://github.com/giant-paw/UCP1_PDW_20220140105/assets/107108170/6c400d95-1177-4cd9-9d61-ba10bea0313b)
